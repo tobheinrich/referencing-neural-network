@@ -5,11 +5,11 @@ This Python code implements a fitting procedure using a three-layer neural netwo
 # Details and Performance
 
 For a detailed understanding and performance evaluation, please refer to the following publication:
-- T. Gutberlet et al., "High-sensitivity extreme-ultraviolet transient absorption spectroscopy enabled by machine learning" (https://doi.org/10.1364/OE.495821). 
+- T. Gutberlet et al., "High-sensitivity extreme-ultraviolet transient absorption spectroscopy enabled by machine learning" (https://doi.org/10.1364/OE.495821).
 Please cite this paper if you utilize this code in your work.
 
-Preeprint: https://doi.org/10.48550/arXiv.2305.02236
+Preprint: https://doi.org/10.48550/arXiv.2305.02236
 
 # Usage Instructions
 
-See jupyter notebook for instructions and example usage.
+See jupyter notebook for instructions and an example of usage.
